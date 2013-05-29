@@ -1,1 +1,7 @@
 alias ll='ls -AlrtG'
+alias hi='history | tail -300'
+alias less='less -r'
+alias mv='mv -i'
+alias rm='rm -i'
+alias be='bundle exec'
+alias sshsandbox='ssh -l ec2-user -i /Users/natemilbee/.aws/sandbox.pem sandbox.socialpandas.com'
